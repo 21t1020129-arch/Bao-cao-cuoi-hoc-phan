@@ -47,8 +47,8 @@ if page == "Trang 1: Giới thiệu & Khám phá dữ liệu (EDA)":
     st.info("""
     **Thông tin đề tài:**
     * **Tên đề tài:** Dự đoán Giá trị Vòng đời Khách hàng (Customer Lifetime Value - CLV)
-    * **Sinh viên thực hiện:** [Điền Họ Tên của bạn]
-    * **MSSV:** [Điền MSSV của bạn]
+    * **Sinh viên thực hiện:** Phạm Tiến Dũng
+    * **MSSV:** 21T1020129
     """)
     
     st.markdown("""
